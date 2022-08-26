@@ -10,7 +10,6 @@ This is "To-do list" website that helps you to organize your day.
   - html
   - css
   - javascript in ES6 
-  - Webpack
 
 ## Live Demo 
 
